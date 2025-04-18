@@ -27,8 +27,8 @@ This is a full-stack web application built with a separate frontend and backend.
 ### 1. Clone the Repository
 
 '''bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/ANTRIKSHKATNA/NITHRESULTS.git
+cd NITHRESULTS
 
 FrontEND Setup
 
